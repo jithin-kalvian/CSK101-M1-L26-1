@@ -1,5 +1,9 @@
 /* Properties which are inherited by the child element*/
 
-
+body {
+  color: aqua;
+  border: 2rem;
+  border-style: dotted;
+}
 
 /* Properties which are not inherited by the child element */
